@@ -17,7 +17,7 @@
 
 DEMOの実行方法
 ```bash
-git clone https://github.com/t18cs027/typingGame_GUI.git
+git clone https://github.com/t18cs027/typingGame_CLI.git
 cd t18cs027/src/
 javac Model.java
 cd t18cs027/bin
